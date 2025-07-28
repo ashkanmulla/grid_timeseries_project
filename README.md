@@ -28,8 +28,8 @@ The project follows a layered architecture:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/askan/grid-timeseries-project.git (it will not work fully )
-   cd grid-timeseries-project
+   https://github.com/ashkanmulla/grid_timeseries_project.git
+   cd grid_timeseries_project
 
 
 NOTE: Sir, I've implemented the code but there are a few technical challenges to address:
